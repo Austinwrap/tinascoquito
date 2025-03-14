@@ -341,7 +341,7 @@
                               `Thank you for ordering from Tina's Coquito!`;
 
             // Create mailto link
-            const mailtoLink = `mailto:aytmout@gmail.com?subject=Coquito Order from ${encodeURIComponent(name)}&body=${encodeURIComponent(emailBody)}`;
+            const mailtoLink = `mailto:tinasantorso11@gmail.com?subject=Coquito Order from ${encodeURIComponent(name)}&body=${encodeURIComponent(emailBody)}`;
             window.location.href = mailtoLink;
 
             // Alert user
